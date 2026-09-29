@@ -208,7 +208,7 @@ Ganti URL tersebut dengan URL deployment yang diberikan Vercel.
 
 GitHub Repository:
 
-`https://github.com/USERNAME/library-loan-api`
+`https://github.com/aliftekkom24/library-loan-api`
 
 Vercel Deployment:
 
