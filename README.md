@@ -135,7 +135,7 @@ Response:
 ### Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/library-loan-api.git
+git clone https://github.com/aliftekkom24/library-loan-api.git
 cd library-loan-api
 ```
 
